@@ -106,6 +106,10 @@
 
 ## 近期发布的博客文章  
 <!-- BLOG-POST-LIST:START -->
+- [星露谷联机 bug “这个角色属于另一位玩家” 解决方案](https://keqing.moe/posts/stardew-valley-multiplay-bug-fix/)
+- [Nekoray 4 + Hysteria2 + 端口跳跃 + TUN 模式无法联网的解决方案](https://keqing.moe/posts/nekoray4-hysteria2-tun-port-hopping-solution/)
+- [1panel + OpenResty 网站 504 解决方案](https://keqing.moe/posts/1panel-openresty-website-504-solution/)
+- [Sakurairo 主题多语言完美方案](https://keqing.moe/posts/sakurairo_multilang/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
