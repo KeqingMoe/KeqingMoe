@@ -106,6 +106,7 @@
 
 ## 近期发布的博客文章  
 <!-- BLOG-POST-LIST:START -->
+- [年仅 3 美元！搭建你自己的邮件服务器](https://keqing.moe/posts/3-usd-annually-personal-email-server/)
 - [星露谷联机 bug “这个角色属于另一位玩家” 解决方案](https://keqing.moe/posts/stardew-valley-multiplay-bug-fix/)
 - [Nekoray 4 + Hysteria2 + 端口跳跃 + TUN 模式无法联网的解决方案](https://keqing.moe/posts/nekoray4-hysteria2-tun-port-hopping-solution/)
 - [1panel + OpenResty 网站 504 解决方案](https://keqing.moe/posts/1panel-openresty-website-504-solution/)
