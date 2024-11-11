@@ -5,34 +5,28 @@
 </div>  
   
 
-### **<div align="center">你好，我是「刻晴单推人」</div>**  
+### **<div align="center">你好，我是「刻晴单推人」</div>**
   
+- **🥰 我喜欢： 刻晴💜**
 
-- **🥰 我喜欢： 刻晴💜**  
-  
+- **🧐 我想要： 什么都想要**
 
-- **🧐 我想要： 什么都想要**  
-  
+- **😎 我能够： I CAN DO ANYTHING**
 
-- **😎 我能够： I CAN DO ANYTHING**  
-  
-
-- **🤣 我觉得： C++是世界上最优雅的语言**  
-  
+- **🤣 我觉得： C++是世界上最优雅的语言**
 
 - **😉 我祈愿： 永远相信美好的事情即将发生**  
-  
 
 - **🤗 我相信： 心有所向，日复一日，必有精进**  
-  
 
 <br/>  
 
+## 我有什么能力
 
-## 我有什么能力 
 <table><tr><td valign="top" width="33%">
 
-### Web 相关  
+### Web 相关
+
 <div align="center">  
 <a href="https://zh.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
 <a href="https://wordpress.com/zh-cn/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="75" /></a>  
@@ -46,7 +40,8 @@
 
 </td><td valign="top" width="33%">
 
-### 后端  
+### 后端
+
 <div align="center">  
 <a href="https://zh.cppreference.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="75" /></a>  
 <a href="https://zh.cppreference.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="75" /></a>  
@@ -60,7 +55,8 @@
 
 </td><td valign="top" width="33%">
 
-### 其他  
+### 其他
+
 <div align="center">  
 <a href="https://www.adobe.com/cn/creativecloud/roc/business.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="75" /></a>  
 <a href="https://www.adobe.com/cn/creativecloud/roc/business.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="75" /></a>  
@@ -75,7 +71,8 @@
 
 <br/>  
 
-## 如何与我联系  
+## 如何与我联系
+
 <div align="center">
 
 [![keqing.moe](https://img.shields.io/badge/blog-%238e78c6.svg?&style=for-the-badge&logo=undertale&logoColor=%23E71D29)](https://keqing.moe/)
@@ -88,6 +85,7 @@
 <br/>  
 
 ## Github 统计数据  
+
 <table align="center">
 <tr><td width=50%">
 <div align="center">
@@ -95,16 +93,29 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeqingMoe&layout=compact&count_private=true&hide_border=true&locale=cn" align="center" />
 </a>
 </div>  
-</td><td width="50%">
+</td>
+<td width="50%">
 <div align="center">
 <a href="https://github.com/KeqingMoe">
 <img src="https://github-readme-stats.vercel.app/api?username=KeqingMoe&show_icons=true&count_private=true&hide_border=true&locale=cn" align="center" />
 </a>
 </div> 
-</td></tr></table>  
-<br/>  
+</td>
+</tr>
+<tr>
+<td width=100%" colspan="2">
+<div align="center">
+<a href="https://github.com/KeqingMoe">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=KeqingMoe&show_icons=true&locale=cn" align="center" />
+</a>
+</div>  
+</td>
+</tr>
+</table>  
+<br/>
 
-## 近期发布的[博客](https://keqing.moe)文章  
+## 近期发布的[博客](https://keqing.moe)文章
+
 <!-- BLOG-POST-LIST:START -->
 - [年仅 3 美元！搭建你自己的邮件服务器](https://keqing.moe/posts/3-usd-annually-personal-email-server/)
 - [星露谷联机 bug “这个角色属于另一位玩家” 解决方案](https://keqing.moe/posts/stardew-valley-multiplay-bug-fix/)
