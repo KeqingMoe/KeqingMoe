@@ -106,7 +106,7 @@
 <td width=100%" colspan="2">
 <div align="center">
 <a href="https://github.com/KeqingMoe">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=KeqingMoe&show_icons=true&locale=cn" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=KeqingMoe&locale=cn&langs_count=10" align="center" />
 </a>
 </div>  
 </td>
