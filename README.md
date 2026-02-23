@@ -15,14 +15,14 @@
 <tr><td width=50%">
 <div align="center">
 <a href="https://github.com/KeqingMoe">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeqingMoe&layout=compact&count_private=true&hide_border=true&locale=cn" align="center" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KeqingMoe&layout=compact&count_private=true&hide_border=true&locale=cn" align="center" />
 </a>
 </div>  
 </td>
 <td width="50%">
 <div align="center">
 <a href="https://github.com/KeqingMoe">
-<img src="https://github-readme-stats.vercel.app/api?username=KeqingMoe&show_icons=true&count_private=true&hide_border=true&locale=cn" align="center" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KeqingMoe&show_icons=true&count_private=true&hide_border=true&locale=cn" align="center" />
 </a>
 </div> 
 </td>
@@ -31,7 +31,7 @@
 <td width=100%" colspan="2">
 <div align="center">
 <a href="https://github.com/KeqingMoe">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=KeqingMoe&locale=cn&langs_count=10" align="center" />
+<img src="https://github-readme-stats.zcy.dev/api/wakatime?username=KeqingMoe&locale=cn&langs_count=10" align="center" />
 </a>
 </div>  
 </td>
